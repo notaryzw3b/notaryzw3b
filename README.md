@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Mais qui es-tu ? 💬
-Je me présente, Ayrton, j'ai 16 ans et je suis en Bac professionnel Systèmes Numériques, option Réseaux Informatiques Systèmes Communiquants.
+Je me présente, Ayrton, j'ai 16 ans et je suis en Bac professionnel Systèmes Numériques, option Réseaux Informatiques Systèmes Communiquants. <br />
 Je suis assez présent sur la communauté Habbo française, grâce à cela j'ai pu m'intéresser aux différents langages de programmation tel que le Java, l'HTML, le CSS, le JS (Vue en framework) ainsi que le PHP natif et un peu de Laravel.
