@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <!--
 **notaryzw3b/notaryzw3b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Mais qui es-tu ?
+Je me présente, Ayrton, j'ai 16 ans et je suis en Bac professionnel Systèmes Numériques, option Réseaux Informatiques Systèmes Communiquants.
